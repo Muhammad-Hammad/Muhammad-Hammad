@@ -1,3 +1,7 @@
+
+<img align="center" alt="profile" src="https://raw.githubusercontent.com/Muhammad-Hammad/Syed-Muhammad-Hammad-Ghani/main/Software.png"/>
+
+
 👋 Hi, I’m @Hammad Ghani
 
 👀 I’m interested in ... Full-stack Engineering
