@@ -42,3 +42,4 @@
 <div>
 📫 How to reach me ... https://www.linkedin.com/in/syed-muhammad-hammad-ghani/
 </div>
+<a href="https://www.buymeacoffee.com/MuhammadHammad" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
