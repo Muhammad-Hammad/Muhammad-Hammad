@@ -50,3 +50,7 @@ If you want to support me then:
 </div>
 <br/>
 <a href="https://www.buymeacoffee.com/MuhammadHammad" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+
+<br/>
+<br/>
+<a href="https://app.daily.dev/HamMy"><img src="https://api.daily.dev/devcards/96517c348d6e46a6b153a009cf76c6c6.png?r=vt4" width="400" alt="Syed Muhammad Hammad Ghani's Dev Card"/></a>
