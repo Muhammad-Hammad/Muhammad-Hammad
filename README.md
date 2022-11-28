@@ -1,6 +1,7 @@
 
-<img align="center" alt="profile" src="https://raw.githubusercontent.com/Muhammad-Hammad/Syed-Muhammad-Hammad-Ghani/main/Software.png"/>
-
+<!-- <img align="center" alt="profile" src="https://raw.githubusercontent.com/Muhammad-Hammad/Syed-Muhammad-Hammad-Ghani/main/Software.png"/> -->
+<center><a href="https://app.daily.dev/HamMy"><img src="https://api.daily.dev/devcards/96517c348d6e46a6b153a009cf76c6c6.png?r=710" width="400" alt="Syed Muhammad Hammad Ghani's Dev Card"/></a>
+</center>
 
 👋 Hi, I’m @Hammad Ghani
 
