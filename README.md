@@ -3,12 +3,44 @@
 <center><a href="https://app.daily.dev/HamMy"><img src="https://api.daily.dev/devcards/96517c348d6e46a6b153a009cf76c6c6.png?r=710" width="400" alt="Syed Muhammad Hammad Ghani's Dev Card"/></a>
 </center>
 
-👋 Hi, I’m @Hammad Ghani
+Greetings,
 
-👀 I’m interested in ... Full-stack Engineering
+I'm a skilled Frontend-Focused FullStack Developer with a deep specialization in ReactJS, bringing over 3 years of dedicated experience to the table. My commitment to crafting high-quality solutions has consistently met and exceeded customer expectations.
 
-🌱 I’m currently shipping awesome projects with ... NextJS, Typescript, ReactJS, Flutter
+🚀 Frontend Skills:
 
+Proficient in NextJS, ReactJS, and Angular
+Adept in state management with Redux and Context API
+UI finesse with Material UI, Chakra UI, React-Bootstrap, Tailwind-CSS, Ant-Design, and Emotion/React
+Comfortable with SASS, JavaScript, and TypeScript
+Experienced in both GraphQL and REST API integrations.
+
+📱 Mobile/Hybrid:
+
+Creating fluid user experiences using React Native and Flutter
+
+🔧 Backend Skills:
+
+Leveraging the power of Firebase and AWS serverless architecture
+Strong command over NodeJS and ExpressJS
+Data management prowess with MongoDB, SQL, and PosgreSQL
+Proficient in CI/CD and skilled in caching mechanisms such as Redis and Memcache
+
+🛠️ Toolbox:
+
+Using Vscode for efficient development
+Streamlining projects through Jira, Asana, and Trello
+Crafting designs with Figma and Adobe XD
+Version control adeptness with Github, Gitlab, and BitBucket
+
+💡 Additional Skills:
+
+Design tweaks with Adobe Photoshop
+Comprehensive documentation using Microsoft Excel, Word, and PowerPoint
+Comfortable across Windows, Linux, and Mac platforms
+I'm enthusiastic about the prospect of collaborating on upcoming projects. Let's transform your ideas into seamless digital experiences.
+
+Looking forward to working with you
 
 ### Languages and Tools:
 
