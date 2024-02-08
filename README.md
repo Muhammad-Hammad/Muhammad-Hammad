@@ -15,6 +15,10 @@ UI finesse with Material UI, Chakra UI, React-Bootstrap, Tailwind-CSS, Ant-Desig
 Comfortable with SASS, JavaScript, and TypeScript
 Experienced in both GraphQL and REST API integrations.
 
+🧪 Writing Unit Test Cases:
+
+Proficient in writing unit test cases using Jest and Storybook for React components to ensure code reliability and maintainability.
+
 📱 Mobile/Hybrid:
 
 Creating fluid user experiences using React Native and Flutter
