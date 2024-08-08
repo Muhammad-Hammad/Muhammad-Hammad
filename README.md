@@ -49,7 +49,7 @@ I'm enthusiastic about the prospect of collaborating on upcoming projects. Let's
 Looking forward to working with you
 
 ### Languages and Tools:
-
+<div>
 <img align="left" alt="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  title="TypeScript" alt="TypeScript" width="40" height="40"/>
 <img align="left" alt="Linux" width="40" height="40" src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" />
@@ -93,6 +93,7 @@ Looking forward to working with you
 <img align="left" alt="Dart" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
+   </div>
 <br/>
 <br/>
 <div>
