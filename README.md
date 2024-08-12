@@ -108,3 +108,9 @@ If you want to support me then:
 <br/>
 <a href="https://www.buymeacoffee.com/MuhammadHammad" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
 
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammad-hammad&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-hammad&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
