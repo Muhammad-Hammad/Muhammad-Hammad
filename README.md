@@ -10,7 +10,7 @@
 
 ## Hi, I'm Syed Muhammad Hammad Ghani 👋
 
-- **Full-Stack Software Engineer** with 4+ years of experience in developing robust applications.
+- **Full-Stack Software Engineer** with 5+ years of experience in developing robust applications.
 - Proficient in **JavaScript, TypeScript, Dart** with a solid background in **ReactJS, NextJS, Angular**, and **NodeJS**.
 - Expertise in creating scalable solutions using **MSSQL** and **PostgreSQL**.
 - Adept at turning complex problems into simple solutions, with a knack for optimizing performance and enhancing user experience.
