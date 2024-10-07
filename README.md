@@ -10,9 +10,9 @@
 
 ## Hi, I'm Syed Muhammad Hammad Ghani 👋
 
-- **Full-Stack Software Engineer** with 5+ years of experience in developing robust applications.
-- Proficient in **JavaScript, TypeScript, Dart** with a solid background in **ReactJS, NextJS, Angular**, and **NodeJS**.
-- Expertise in creating scalable solutions using **MSSQL** and **PostgreSQL**.
+- **Full-Stack Software Engineer** with 4+ years of experience in developing robust applications.
+- Proficient in **JavaScript, TypeScript, Dart** with a solid background in **ReactJS, NextJS, Angular**, **NodeJS**, **ExpressJS** and **NestJS**.
+- Expertise in creating scalable solutions using **MSSQL**, **PostgreSQL** and **MongoDB**.
 - Adept at turning complex problems into simple solutions, with a knack for optimizing performance and enhancing user experience.
 - Currently working on a **HamMy's Code Chronicles** *(A series where I grasp and learn and share it with you guys on github)*.
 
