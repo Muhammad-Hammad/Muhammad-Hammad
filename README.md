@@ -22,7 +22,7 @@
 <div align="center">
   <h2>💻 Full-Stack Software Engineer</h2>
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=4%2B+years+of+development+experience;JavaScript+%7C+TypeScript+%7C+Dart;React+%7C+Next.js+%7C+Angular;Node.js+%7C+Express+%7C+NestJS;Problem+solver+%26+Performance+optimizer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&duration=3000&pause=1000&color=2CB5A0&center=true&vCenter=true&width=500&lines=4%2B+Years+of+Development+Experience;JavaScript+%7C+TypeScript+%7C+Dart;React+%7C+Next.js+%7C+Angular;Node.js+%7C+Express+%7C+NestJS;Problem+Solver+%26+Performance+Optimizer" alt="Typing SVG" />
   </p>
 </div>
 
@@ -105,16 +105,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=muhammad-hammad&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=muhammad-hammad&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-hammad&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-hammad&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-hammad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-hammad&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammad-hammad&theme=radical&no-frame=true&row=1&column=7" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammad-hammad&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" />
 </div>
 
 
@@ -122,7 +122,7 @@
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/MuhammadHammad" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="60" width="217" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-teal.png" alt="Buy Me A Coffee" height="60" width="217" />
   </a>
 </div>
 
