@@ -117,16 +117,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=muhammad-hammad&theme=radical&no-frame=true&row=1&column=7" alt="trophy" />
 </div>
 
-## 🔥 Recent Projects
-
-<div align="center">
-  <a href="https://github.com/Muhammad-Hammad/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-hammad&repo=project1&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/Muhammad-Hammad/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-hammad&repo=project2&theme=radical&hide_border=true" />
-  </a>
-</div>
 
 ## 🤝 Support Me
 
