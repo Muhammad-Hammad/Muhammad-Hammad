@@ -104,11 +104,9 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=muhammad-hammad&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</div>
 
 <div align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=muhammad-hammad&theme=dark" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-hammad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=muhammad-hammad&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
@@ -121,9 +119,7 @@
 ## 🤝 Support Me
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/MuhammadHammad" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-teal.png" alt="Buy Me A Coffee" height="60" width="217" />
-  </a>
+ <a href="https://www.buymeacoffee.com/MuhammadHammad" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
 </div>
 
 <div align="center">
