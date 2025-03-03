@@ -110,7 +110,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-hammad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=muhammad-hammad&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" />
 </div>
 
