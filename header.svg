@@ -33,7 +33,6 @@
           left: 0;
           right: 0;
           bottom: 0;
-          background: linear-gradient(135deg, rgba(44, 181, 160, 0.1), rgba(58, 77, 181, 0.1));
           border-radius: 10px;
           z-index: -1;
         }
