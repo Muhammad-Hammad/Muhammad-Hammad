@@ -106,7 +106,6 @@
 
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=muhammad-hammad&theme=dark" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-hammad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=muhammad-hammad&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
