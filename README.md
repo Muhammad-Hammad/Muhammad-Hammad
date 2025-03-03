@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Muhammad-Hammad/Muhammad-Hammad/main/header.svg" alt="Syed Muhammad Hammad Ghani - Full Stack Developer" width="100%" />
   
-  <a href="https://app.daily.dev/HamMy">
+  <a href="#">
     <img src="https://api.daily.dev/devcards/96517c348d6e46a6b153a009cf76c6c6.png?r=710" width="300" alt="Syed Muhammad Hammad Ghani's Dev Card" />
   </a>
   
@@ -37,7 +37,7 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
   
   ### Frontend
   
@@ -105,7 +105,7 @@
 ## 📊 GitHub Stats
 
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-hammad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=muhammad-hammad&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
@@ -117,7 +117,7 @@
 
 ## 🤝 Support Me
 
-<div align="center">
+<div align="left">
  <a href="https://www.buymeacoffee.com/MuhammadHammad" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
 </div>
 
