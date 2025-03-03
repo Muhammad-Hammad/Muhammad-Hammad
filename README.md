@@ -1,56 +1,5 @@
 <div align="center">
- <svg fill="none" viewBox="0 0 800 100" width="800" height="100" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        @keyframes gradientText {
-          0% {
-            background-position: 0% 50%;
-          }
-          50% {
-            background-position: 100% 50%;
-          }
-          100% {
-            background-position: 0% 50%;
-          }
-        }
-        
-        .container {
-          font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
-          display: flex;
-          flex-direction: column;
-          align-items: center;
-          justify-content: center;
-          margin: 0;
-          width: 100%;
-          height: 100px;
-        }
-        
-        h1 {
-          font-size: 50px;
-          font-weight: 700;
-          margin: 0;
-          background: linear-gradient(to right, #ff0080, #ff8c00, #ffed00, #00ff80, #00bfff, #8a2be2, #ff0080);
-          background-size: 200% auto;
-          background-clip: text;
-          -webkit-background-clip: text;
-          -webkit-text-fill-color: transparent;
-          animation: gradientText 5s ease infinite;
-        }
-        
-        p {
-          font-size: 20px;
-          margin: 0;
-          color: #333;
-        }
-      </style>
-      <div class="container">
-        <h1>Syed Muhammad Hammad Ghani</h1>
-        <p>Full-Stack Software Engineer</p>
-      </div>
-    </div>
-  </foreignObject>
-</svg>
+  <img src="https://raw.githubusercontent.com/Muhammad-Hammad/Muhammad-Hammad/main/assets/header.svg" alt="Syed Muhammad Hammad Ghani - Full Stack Developer" width="100%" />
   
   <a href="https://app.daily.dev/HamMy">
     <img src="https://api.daily.dev/devcards/96517c348d6e46a6b153a009cf76c6c6.png?r=710" width="300" alt="Syed Muhammad Hammad Ghani's Dev Card" />
@@ -188,41 +137,6 @@
 </div>
 
 <div align="center">
-<svg fill="none" viewBox="0 0 800 50" width="800" height="50" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        .container {
-          font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
-          display: flex;
-          flex-direction: column;
-          align-items: center;
-          justify-content: center;
-          width: 100%;
-          height: 50px;
-        }
-        
-        .text {
-          font-size: 16px;
-          color: #666;
-          text-align: center;
-          animation: wave 2s ease-in-out infinite;
-        }
-        
-        @keyframes wave {
-          0%, 100% {
-            transform: translateY(0);
-          }
-          50% {
-            transform: translateY(-5px);
-          }
-        }
-      </style>
-      <div class="container">
-        <div class="text">Thanks for visiting my profile! Let's connect and build something amazing together! ✨</div>
-      </div>
-    </div>
-  </foreignObject>
-</svg>
+  <img src="https://raw.githubusercontent.com/Muhammad-Hammad/Muhammad-Hammad/main/assets/footer.svg" alt="Thanks for visiting!" width="100%" />
 </div>
 
