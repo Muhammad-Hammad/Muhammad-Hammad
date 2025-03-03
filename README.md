@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Muhammad-Hammad/Muhammad-Hammad/main/assets/header.svg" alt="Syed Muhammad Hammad Ghani - Full Stack Developer" width="100%" />
+  <img src="https://raw.githubusercontent.com/Muhammad-Hammad/Muhammad-Hammad/main/header.svg" alt="Syed Muhammad Hammad Ghani - Full Stack Developer" width="100%" />
   
   <a href="https://app.daily.dev/HamMy">
     <img src="https://api.daily.dev/devcards/96517c348d6e46a6b153a009cf76c6c6.png?r=710" width="300" alt="Syed Muhammad Hammad Ghani's Dev Card" />
@@ -137,6 +137,6 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Muhammad-Hammad/Muhammad-Hammad/main/assets/footer.svg" alt="Thanks for visiting!" width="100%" />
+  <img src="https://raw.githubusercontent.com/Muhammad-Hammad/Muhammad-Hammad/main/footer.svg" alt="Thanks for visiting!" width="100%" />
 </div>
 
