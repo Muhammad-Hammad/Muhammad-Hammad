@@ -22,13 +22,13 @@
 <div align="center">
   <h2>💻 Full-Stack Software Engineer</h2>
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&duration=3000&pause=1000&color=2CB5A0&center=true&vCenter=true&width=500&lines=4%2B+Years+of+Development+Experience;JavaScript+%7C+TypeScript+%7C+Dart;React+%7C+Next.js+%7C+Angular;Node.js+%7C+Express+%7C+NestJS;Problem+Solver+%26+Performance+Optimizer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&duration=3000&pause=1000&color=2CB5A0&center=true&vCenter=true&width=500&lines=5%2B+Years+of+Development+Experience;JavaScript+%7C+TypeScript+%7C+Dart;React+%7C+Next.js+%7C+Angular;Node.js+%7C+Express+%7C+NestJS;Problem+Solver+%26+Performance+Optimizer" alt="Typing SVG" />
   </p>
 </div>
 
 ## 👨‍💻 About Me
 
-- **Full-Stack Software Engineer** with 4+ years of experience in developing robust applications
+- **Full-Stack Software Engineer** with 5+ years of experience in developing robust applications
 - Proficient in **JavaScript, TypeScript, Dart** with a solid background in **ReactJS, NextJS, Angular**
 - Backend expertise with **NodeJS**, **ExpressJS** and **NestJS**
 - Database experience with **MSSQL**, **PostgreSQL** and **MongoDB**
