@@ -86,15 +86,21 @@
 </div>
 
 ## 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=muhammad-hammad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=muhammad-hammad&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-hammad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="left">
+---
+
+<!-- <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=muhammad-hammad&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" style="pointer-events: none;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-hammad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" style="pointer-events: none;"/>
 </div>
 
 <div align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=muhammad-hammad&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" style="pointer-events: none;"/>
-</div>
+</div> -->
 
 ## 🤝 Support Me
 
